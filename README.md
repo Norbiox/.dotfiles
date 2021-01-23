@@ -1,2 +1,2 @@
 # .dotfiles
-My dotfiles, use as git bare repository
+My dotfiles and other configuration stuff. Use as git bare repository
